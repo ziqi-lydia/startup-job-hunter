@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/cover.png" alt="Startup Job Hunter â€” Automated Job Tracker" width="100%" />
+  <img src="linkedin-job-tracker-promo.png" alt="Startup Job Hunter â€” Automated Job Tracker" width="100%" />
 
   <br/>
 
@@ -89,7 +89,7 @@ Every run produces (or updates) a structured tracker:
 | Notes | YC batch, edge cases, etc. |
 
 <div align="center">
-  <img src="assets/cover.png" alt="Google Sheets Output Example" width="85%" />
+  <img src="linkedin-job-tracker-promo.png" alt="Google Sheets Output Example" width="85%" />
   <br/>
   <em>Real output from a GTM job search â€” 19 new jobs found across 3 platforms</em>
 </div>
