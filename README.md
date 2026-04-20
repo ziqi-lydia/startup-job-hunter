@@ -25,7 +25,7 @@
 
 ### Step 1: Get Sai
 
-ðŸ‘‰ **Go to [sai.work](https://www.sai.work/) and sign up** â€” 7-day free trial, no credit card required.
+ðŸ‘‰ **Go to [sai.work](https://www.sai.work/) and sign up** â€” 7-day free trial.
 
 Sai is an agentic AI coworker that lives on your computer. It can browse the web, control desktop apps, and automate complex multi-step workflows â€” like scanning 3 job platforms, researching founders on LinkedIn, scoring your resume against every JD, and building a structured Google Sheet tracker. All from a single prompt.
 
